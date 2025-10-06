@@ -1,0 +1,3 @@
+Nodes: 135698
+Edges: 267869
+Modularity (Louvain): 0.757863
